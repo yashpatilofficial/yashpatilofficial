@@ -1,7 +1,12 @@
 <h1 align="center"># Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Yash Patil! </h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
+
+
+<h3 align="center">Connect with me:</h3>
+
+
+
 <p align="center">
 <a href="https://twitter.com/patil_yash29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="patil_yash29" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yash-patil-14179816b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-patil-14179816b" height="30" width="40" /></a>
