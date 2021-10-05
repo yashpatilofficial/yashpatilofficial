@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to excel ahead in app development
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to play video games
 
 ### Connect with me:
 
@@ -35,13 +35,12 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<yashpTILOFFICIAL>&theme=<default>" />
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<yashpatilofficial>&theme=<default>" />
 
 </details>
 
 
-[webdevplaylist]: 
+
 [twitter]: https://twitter.com/patil_yash29
 [instagram]: https://www.instagram.com/yashpatilofficial/
 [linkedin]: https://www.linkedin.com/in/yash-patil-14179816b/
