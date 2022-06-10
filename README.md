@@ -2,7 +2,7 @@
 
 <h1 align="center"># Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I am Yash Patil! </h1>
 
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">A passionate Flutter Developer from India</h3>
 
 <hr />
 
