@@ -2,9 +2,9 @@
 
 <h1 align="center"># Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I am Yash Patil! </h1>
 
-<h3 align="center">A passionate Flutter Developer from India</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+passionate+Developer+from+India!;Experiencing+Mobile+App+Development.;Dont+forget+to+explore+my+repos;Reach+Me+out+on+mentioned+social+media+accounts!&font=Fira%20Code&center=true&width=380&height=50">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+SA+Beginner&duration=4000&color=FF69B4&background=FF763F00&multiline=true&width=380&height=64&lines=A+passionate+Developer+from+India!;Experiencing+Mobile+App+Development+%F0%9F%98%89)](https://git.io/typing-svg)
 </p>
 <hr />
 
