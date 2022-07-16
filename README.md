@@ -8,7 +8,6 @@
 </p>
 
 
-<h3 align="center"><img src="https://seodigitalindiamarketing.com/wp-content/uploads/2020/12/gif-5.gif" width="150" /></h3>
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
