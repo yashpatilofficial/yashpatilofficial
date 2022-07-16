@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="(https://readme-typing-svg.herokuapp.com?font=Edu+SA+Beginner&size=30&duration=4000&color=FF69B4&background=FF763F00&center=true&vCenter=true&multiline=true&width=480&height=90&lines=A+passionate+Developer+from+India!;Experiencing+Mobile+App+Development+%F0%9F%98%89">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Edu+SA+Beginner&size=30&duration=4000&color=FF69B4&background=FF763F00&center=true&vCenter=true&multiline=true&width=480&height=90&lines=A+passionate+Developer+from+India!;Experiencing+Mobile+App+Development+%F0%9F%98%89">
 </p>
 
 
