@@ -3,7 +3,9 @@
 <h1 align="center"># Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I am Yash Patil! </h1>
 
 <h3 align="center">A passionate Flutter Developer from India</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+passionate+Developer+from+India!;Experiencing+Mobile+App+Development.;Dont+forget+to+explore+my+repos;Reach+Me+out+on+mentioned+social+media+accounts!&font=Fira%20Code&center=true&width=380&height=50">
+</p>
 <hr />
 
 <h3 align="center"><img src="https://seodigitalindiamarketing.com/wp-content/uploads/2020/12/gif-5.gif" width="150" /></h3>
