@@ -3,9 +3,9 @@
 <h1 align="center"># Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I am Yash Patil! </h1>
 
 
-<h3 align="center">
+<p align="center">
   <img src="(https://readme-typing-svg.herokuapp.com?font=Edu+SA+Beginner&size=30&duration=4000&color=FF69B4&background=FF763F00&center=true&vCenter=true&multiline=true&width=480&height=90&lines=A+passionate+Developer+from+India!;Experiencing+Mobile+App+Development+%F0%9F%98%89">
-</h3>
+</p>
 
 
 <h3 align="center"><img src="https://seodigitalindiamarketing.com/wp-content/uploads/2020/12/gif-5.gif" width="150" /></h3>
