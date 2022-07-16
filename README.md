@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+SA+Beginner&duration=4000&color=FF69B4&background=FF763F00&multiline=true&width=380&height=64&lines=A+passionate+Developer+from+India!;Experiencing+Mobile+App+Development+%F0%9F%98%89)](https://git.io/typing-svg)
+  (https://readme-typing-svg.herokuapp.com?font=Edu+SA+Beginner&duration=4000&color=FF69B4&background=FF763F00&multiline=true&width=380&height=64&lines=A+passionate+Developer+from+India!;Experiencing+Mobile+App+Development+%F0%9F%98%89)](https://git.io/typing-svg)
 </p>
 <hr />
 
